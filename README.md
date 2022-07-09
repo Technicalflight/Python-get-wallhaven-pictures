@@ -15,6 +15,8 @@
 
 
  本篇README.md面向开发者
+ ## License ##
+This work is licensed under the [GPL3.0 License](LICENSE).
 
 ## 目录
 
